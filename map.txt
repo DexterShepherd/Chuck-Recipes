@@ -1,0 +1,23 @@
+!./samples/clap
+*./samples/clap/1-Audio 1 [2019-11-02 174903]-64.wav
+*./samples/clap/1-Audio 1 [2019-11-02 174903]-65.wav
+*./samples/clap/1-Audio 1 [2019-11-02 174903]-66.wav
+*./samples/clap/1-Audio 1 [2019-11-02 174903]-67.wav
+!./samples/hat
+*./samples/hat/1-Audio 1 [2019-11-02 174903]-72.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174903]-73.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174903]-74.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174904]-60.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174904]-61.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174904]-70.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174904]-71.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174905]-5.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174905]-6.wav
+*./samples/hat/1-Audio 1 [2019-11-02 174905]-7.wav
+!./samples/kick
+*./samples/kick/1-Audio 1 [2019-11-02 174904]-76.wav
+*./samples/kick/1-Audio 1 [2019-11-02 174904]-77.wav
+*./samples/kick/k.wav
+*./samples/kick/k2.wav
+*./samples/kick/k3.wav
+*./samples/map.txt
