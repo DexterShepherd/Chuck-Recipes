@@ -2,7 +2,6 @@ Some chuck patches I've needed in the past, or anticpate needing in the future.
 
 
 ### Pitch
-
  - [x] - Note Quantizer
  - [x] - Freq Quantizer
  - [x] - Glissando 
@@ -26,6 +25,7 @@ Some chuck patches I've needed in the past, or anticpate needing in the future.
  - [ ] - Recording
  - [ ] - Multichannel recording
  - [ ] - Sequential Switch
+ - [x] - Midi input
 ### Sampler
  - [ ] - Granular ( clouds )
  - [ ] - Granular ( morphogene )
@@ -34,6 +34,7 @@ Some chuck patches I've needed in the past, or anticpate needing in the future.
 ### Generative
  - [ ] - Marbles
  - [ ] - Turing Machine
+ - [x] - Grain Cloud
 ### Misc
  - [ ] - Logger
  - [ ] - Chubgraph
